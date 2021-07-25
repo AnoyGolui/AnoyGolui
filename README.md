@@ -30,7 +30,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoygolui&show_icons=true&locale=en&layout=compact" alt="anoygolui" /></p>
 
 
 <a href="https://github.com/AnoyGolui/github-readme-stats"><img alt="Anoy Golui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoygolui&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
