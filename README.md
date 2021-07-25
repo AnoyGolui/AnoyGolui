@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoygolui" alt="anoygolui" /></a> </p>
 
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 - 🌱 I’m currently learning **React JS** and **PHP**
 
 - 📫 How to reach me **anoygolui62272580@gmail.com**
