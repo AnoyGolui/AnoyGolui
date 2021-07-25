@@ -31,13 +31,19 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoygolui&show_icons=true&locale=en&layout=compact" alt="anoygolui" /></p>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+<a href="https://github.com/AnoyGolui/github-readme-stats"><img alt="Anoy Golui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoygolui&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
 
 <p align="center">
     <a href="https://github.com/AnoyGolui/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anoy Golui's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anoygolui&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=anoygolui&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
 
 
