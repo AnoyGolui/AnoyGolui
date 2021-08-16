@@ -7,7 +7,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I’m currently learning **React JS** 
+- 🌱 I’m currently learning  **React JS** 
 
 - 📫 How to reach me **anoygolui62272580@gmail.com**
 
